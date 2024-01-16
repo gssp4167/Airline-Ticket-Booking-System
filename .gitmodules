@@ -1,0 +1,12 @@
+[submodule "Flights-service"]
+	path = Flights-service
+	url = https://github.com/gssp4167/Flights-service.git
+[submodule "Flight-Booking-Service"]
+	path = Flight-Booking-Service
+	url = https://github.com/gssp4167/Flight-Booking-Service.git
+[submodule "API-Gateway-Flights"]
+	path = API-Gateway-Flights
+	url = https://github.com/gssp4167/API-Gateway-Flights.git
+[submodule "Airline-Notification-Service"]
+	path = Airline-Notification-Service
+	url = https://github.com/gssp4167/Airline-Notification-Service.git
